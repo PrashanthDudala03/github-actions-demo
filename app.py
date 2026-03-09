@@ -1,6 +1,6 @@
 print("Hello from GitHub Actions 🚀")
 
-print("test")
+print("test successful")
 
 x = 10
 y = 20
